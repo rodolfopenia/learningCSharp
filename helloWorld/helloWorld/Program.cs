@@ -16,3 +16,12 @@ Console.WriteLine("El resultado es: " + result);
 // Declarar var
 // Necesita inicializar
 var sideC = 15.2;
+
+
+// Operadores ariméticos
+sideA++; // Incremento
+sideA--; // Disminución
+result = sideA - sideB; // resta
+result = sideA * sideB; // multiplicación
+result = sideA / sideB; // división
+result = sideA % sideB; // residuo
